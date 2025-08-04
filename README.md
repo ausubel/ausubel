@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ausubel Velásquez <img align="right" src="https://komarev.com/ghpvc/?username=ausubel&style=plastic" alt="Profile views" />
 
-- 🛠️ Full Stack Software Developer | Building with Data 
+- 🛠️ Software Developer | Building with Data 
 - 💻 Passionate about software development, data engineering, microservices, and continuous learning  
 - 🌱 Currently working on Spring Boot and .NET projects at financial organizations
 - 🚀 Ranked 8th at GDSC Perú Hack 2023  
