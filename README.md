@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Ausubel Velásquez <img align="right" src="https://komarev.com/ghpvc/?username=ausubel&style=plastic" alt="Profile views" />
 
-- 🛠️ Software Developer | Building with Data 
+- 🛠️ Software Developer | Data Developer 
 - 💻 Passionate about software development, data engineering, microservices, and continuous learning  
-- 🌱 Currently working on Spring Boot and .NET projects at financial organizations
+- 🌱 Currently working on ETL pipelines to process large volumes of data, ensuring its quality and integrity through rigorous testing
 - 🚀 Ranked 8th at GDSC Perú Hack 2023  
 - 🎙️ Event organizer and tech speaker
 
@@ -10,16 +10,24 @@
 
 ## 🧠 About Me
 
-- 🧩 I love building solutions from scratch, especially with Java, .NET, TypeScript, and Python.
-- 💬 Ask me about backend development, data driven solutions, REST APIs, advanced SQL, CI/CD, or Bash automation.  
-- 📚 Always learning: currently diving into data engineering, DevOps, and clean architecture.  
+- 🧩 I love building solutions from scratch, especially with Python,  TypeScript and Java.
+- 💬 Ask me about data driven solutions, advanced SQL, backend development, REST APIs, CI/CD or Bash automation.  
+- 📚 Always learning: currently diving into data engineering, BI, and clean architecture.  
 - 🐧 Linux fan and obsessed with keeping things organized 
 - 🌟 Fun fact: Ubuntu is my favorite Linux distribution but I also love Windows.
 
 ---
 
 ## 💻 Tech Stack:
-
+<h3 align="center">Databases & Data</h3>
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+</p>
 <h3 align="center">Backend Development</h3>
 <p align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank">
@@ -44,27 +52,6 @@
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="center">Databases & Data</h3>
-<p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-</p>
-
 <h3 align="center">DevOps & Tools</h3>
 <p align="center" style="display: flex; justify-content: center;">
   <a href="https://aws.amazon.com/" target="_blank">
@@ -80,9 +67,15 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
 </p>
-
-
-
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🏆 Git Stats
 <p align="center">
