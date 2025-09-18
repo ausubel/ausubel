@@ -77,13 +77,6 @@
   </a>
 </p>
 
-## 🏆 Git Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ausubel&show_icons=true&theme=aura" alt="Git Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausubel&hide=htmlcss&layout=compact&theme=gotham" alt="Top Languages" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
