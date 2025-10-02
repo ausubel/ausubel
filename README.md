@@ -69,11 +69,11 @@
 </p>
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
   </a>
 </p>
 
