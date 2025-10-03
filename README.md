@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Ausubel Velásquez <img align="right" src="https://komarev.com/ghpvc/?username=ausubel&style=plastic" alt="Profile views" />
 
 - 🛠️ Software Developer | Data Developer 
-- 💻 Passionate about software development, data engineering, microservices, and continuous learning  
+- 💻 Passionate about software development, microservices, data engineering and continuous learning  
 - 🌱 Currently working on ETL pipelines to process large volumes of data, ensuring its quality and integrity through rigorous testing
 - 🚀 Ranked 8th at GDSC Perú Hack 2023  
 - 🎙️ Event organizer and tech speaker
