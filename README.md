@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ausubel Velásquez <img align="right" src="https://komarev.com/ghpvc/?username=ausubel&style=plastic" alt="Profile views" />
 
-##  **Software Developer**
+##  **Software Engineerr**
 - 💻 Focused on **backend**, **CI/CD**, **containers**, **observability**  
 - 🌱 Building **delivery pipelines**, **Infrastructure as Code**, and **reliable services**
 - 🚀 Deploying on **AWS/GCP** with **Kubernetes** and **Docker**  
